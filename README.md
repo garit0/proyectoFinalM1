@@ -24,10 +24,10 @@ El objetivo principal fue reforzar la estructura semántica de HTML y aplicar bu
 
 ## Cómo ver el sitio
 
-🔗 URL pública (GitHub Pages):  
+URL pública (GitHub Pages):  
 https://garit0.github.io/proyectoFinalM1/
 
-🔗 Repositorio en GitHub:  
+Repositorio en GitHub:  
 https://github.com/garit0/proyectoFinalM1
 
 ---
